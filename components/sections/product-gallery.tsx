@@ -3,7 +3,7 @@ import Image from "next/image"
 export default function ProductGallery() {
   const galleryItems = [
     { src: "/assets/c3.jpg", title: "Angle View", desc: "Detailed side perspective" },
-    { src: "/assets/c2.jpg", title: "Construction Site", desc: "In-action demonstration" },
+    { src: "/assets/C2.jpg", title: "Construction Site", desc: "In-action demonstration" },
     { src: "/assets/c1.jpg", title: "Close-up Details", desc: "Precision engineering" },
   ]
 
